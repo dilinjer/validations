@@ -1,2 +1,4 @@
 # validations
-blue kale validation repo for training
+This scripts validates
+
+use better functions
