@@ -1,2 +1,5 @@
-# validations
-blue kale validation repo for training
+VALIDATION
+===========
+
+This is for validation.
+Yes
