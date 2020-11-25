@@ -1,2 +1,11 @@
 # validations
-blue kale validation repo for training
+Rearrange
+=========
+
+This module is used for rearranging names.
+Turns "LastName, FirstName" into "FirstName, LastName".
+
+## Example
+
+* Calling '"rearrange_name("Hans, Wurst")"' will return '"Wurst Hans"'
+* Calling '"rearrange_name("Max, Mustermann")"' will return '"Mustermann Max"'
