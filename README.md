@@ -1,2 +1,3 @@
-# validations
-blue kale validation repo for training
+Rearrange
+===========
+This mosule is used for rearanging names
