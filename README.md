@@ -5,6 +5,8 @@ This module is used for rearranging names.
 
 Turns "LastName, FirstName" into "FirstName, LastName"
 
-# Example
+## Example
 
-Calling 'rearrange_name("Turing, Alan") will return "Alan Turing"
+Calling "rearrange_name("Turing, Alan")" will return "Alan Turing"
+Just pretend
+there are 2 more examples here
