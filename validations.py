@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-
+# I just forked this repository for learning purpose
 
 def vailidate_user(username, minlen):
-    """Checks if the recieved username matches the required conditions."""
+    """Checks if the received username matches the required conditions."""
     if type(username) != str:
         raise TypeError("username must be a string")
     if minlen < 1:
